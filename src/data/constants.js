@@ -220,7 +220,7 @@ export const projects = [
     description:
       "Developed a real time chat application where we connect with many people at same time and chat with us in real time the project is made up using html css javascript socet.io node.js.",
     image:
-      "real-chat-application.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/real-chat-application.png",
     tags: ["Socket.io", "MongoDb", "Node Js", "Express Js", "javascript"],
     category: "web app",
     github: "https://github.com/Hritik1753",
@@ -243,7 +243,7 @@ export const projects = [
     description:
       "Designed and developed the blog-post project, a blog posting website where we can post a jokes with diffirent catogry. ",
     image:
-      "blog_post.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/blog_post.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -273,7 +273,7 @@ export const projects = [
     description:
       "this is a full stack notes making website from this website we can create , update and delete our notes  ",
     image:
-      "iNotebook.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/iNotebook.png",
     tags: ["Mongoose", "Mongodb", "express.js", "Node.js", "Redux", "React"],
     category: "web app",
     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
@@ -295,7 +295,7 @@ export const projects = [
     description:
       "this is a full stack residentials booking website in this website you can search for rooms for staying acoording to your preffered locations and book for staying.",
     image:
-      "lets_book0.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/lets_book.png",
     tags: ["Mongoose", "Mongodb", "express.js", "Node.js", "Redux", "React"],
     category: "web app",
     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
@@ -323,7 +323,7 @@ export const projects = [
     description:
       "A Decentrilized-e-Voting-system is website which is based on blockchain based technology,in this website user can vote to participents, and anyone can parcipate as participents in election.",
     image:
-      "college_voting.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/college_voting.png",
     tags: ["React js", "mysql", "solidity","node.js"],
     category: "web app",
     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
@@ -368,7 +368,7 @@ export const projects = [
     description:
       "Admin pannel it is a dashboard for Admin in this Admin can see the all details of its users and update and create acoording to itself.",
     image:
-      "Admin_pannel.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/Admin_pannel.png",
     tags: ["React Js", "materail UI"],
     category: "web app",
     github: "https://github.com/Hritik1753?tab=repositories",
@@ -391,7 +391,7 @@ export const projects = [
     description:
       " A Todo Web App made with React JS, Redux, and Material UI. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task.",
     image:
-      "todolist.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/todolist.png",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
     github: "",
@@ -419,7 +419,7 @@ export const projects = [
     description:
       "A simple react app that shows live location of satelite, news , and also give lessons and quizes for spce knowledge. It uses the NASA API to fetch the data of all space related information ,like satelite live location, future upcoming profram and data of past programs also , we use news api here from finding news  related to space organisations. It also has a search bar to search for a particular character.",
     image:
-      "space-dashboard.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/space-dashboard.png",
     tags: ["React Js", "API", "Axios", "Node JS"],
     category: "web app",
     github: "https://github.com/Hritik1753?tab=repositories",
@@ -448,7 +448,7 @@ export const projects = [
     description:
       "A Code-zone project is made for storing your important coding question you can categorised in easy, medium, hard problem and store it and also you you can store your important notes, video, audio, links, and others",
     image:
-      "code-zone.png",
+      "https://raw.githubusercontent.com/Hritik1753/hritik_portfolio/master/src/data/code-zone.png",
     tags: ["typescript", "vs code", "react","Firebase", "Google Auth"],
     category: "web app",
     github: "https://github.com/Hritik1753",
@@ -486,10 +486,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  { year: 2021, text: "Started my journey" },
+  // { year: 2018, text: "Worked as a freelance developer" },
+  { year: 2022, text: "Founded JavaScript Mastery" },
+  { year: 2023, text: "Founded React mystry" },
+  { year: 2024, text: "Started my own platform" },
 ];
 
