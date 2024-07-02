@@ -7,7 +7,7 @@ export const Bio = {
   ],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
-  github: "https://github.com/hritik9335502064",
+  github: "https://github.com/Hritik1753",
   resume:
     "https://drive.google.com/file/d/1bd9zJwHOBD0bJ8zQEo-PabQ_9OJW5a0x/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/hritik-paswan/",
@@ -193,7 +193,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://cdn.telanganatoday.com/wp-content/uploads/2021/07/Jawahar-Navodaya-Vidyalaya-.jpg",
+    img: "https://media.licdn.com/dms/image/C510BAQGK87VYL7oZLw/company-logo_200_200/0/1630566378561?e=1727913600&v=beta&t=ee_rdZSbj4yRsKsRQz2d7UETt6AkpfadrfwtrOWARzc",
     school: "Jawahar Navodaya Vidyalaya Meja Khas prayagraj ",
     date: "Apr 2019 - Apr 2020",
     grade: "86.2%",
@@ -202,7 +202,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://cdn.telanganatoday.com/wp-content/uploads/2021/07/Jawahar-Navodaya-Vidyalaya-.jpg",
+    img: "https://media.licdn.com/dms/image/C510BAQGK87VYL7oZLw/company-logo_200_200/0/1630566378561?e=1727913600&v=beta&t=ee_rdZSbj4yRsKsRQz2d7UETt6AkpfadrfwtrOWARzc",
     school: "Jawahar Navodaya Vidyalaya sonikpur barabanki ",
     date: "Apr 2017 - Apr 2018",
     grade: "87.8%",
@@ -223,18 +223,18 @@ export const projects = [
       "real-chat-application.png",
     tags: ["Socket.io", "MongoDb", "Node Js", "Express Js", "javascript"],
     category: "web app",
-    github: "https://github.com/hritik9335502064",
+    github: "https://github.com/Hritik1753",
   //   webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/hritik9335502064",
+    //   },
      
       
-    ],
+    // ],
   },
   {
     id: 1,
@@ -255,16 +255,16 @@ export const projects = [
     category: "web app",
     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
     github: "https://github.com/hritik9335502064",
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/Hritik1753",
+    //   },
      
      
-    ],
+    // ],
   },
   {
     id: 2,
@@ -278,15 +278,15 @@ export const projects = [
     category: "web app",
     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
     github: "https://github.com/Hritik1753?tab=repositories",
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/Hritik1753",
+    //   },
     
-    ],
+    // ],
   },
   {
     id: 3,
@@ -305,7 +305,7 @@ export const projects = [
         name: "Hritik Paswan",
         img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
         linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
+        github: "https://github.com/Hritik1753",
       },
            {
         name: "Sejal Raj",
@@ -334,7 +334,7 @@ export const projects = [
         name: "Hritik Paswan",
         img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
         linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
+        github: "https://github.com/Hritik1753",
       },
      
       {
@@ -373,16 +373,16 @@ export const projects = [
     category: "web app",
     github: "https://github.com/Hritik1753?tab=repositories",
     webapp: "",
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/Hritik1753",
+    //   },
      
       
-    ],
+    // ],
   },
   {
     id: 5,
@@ -396,21 +396,21 @@ export const projects = [
     category: "web app",
     github: "",
     webapp: "",
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/Hritik1753",
+    //   },
      
-      // {
-      //   name: "Upasana Chaudhuri",
-      //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-      //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-      //   github: "https://github.com/upasana0710",
-      // },
-    ],
+    //   // {
+    //   //   name: "Upasana Chaudhuri",
+    //   //   img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+    //   //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
+    //   //   github: "https://github.com/upasana0710",
+    //   // },
+    // ],
   },
   {
     id: 6,
@@ -425,13 +425,13 @@ export const projects = [
     github: "https://github.com/Hritik1753?tab=repositories",
     webapp: "",
 
-    member: [
-      {
-        name: "Hritik Paswan",
-        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
-        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
-        github: "https://github.com/hritik9335502064",
-      },
+    // member: [
+    //   {
+    //     name: "Hritik Paswan",
+    //     img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+    //     linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+    //     github: "https://github.com/Hritik1753",
+    //   },
      
       // {
       //   name: "Upasana Chaudhuri",
@@ -439,21 +439,37 @@ export const projects = [
       //   linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
       //   github: "https://github.com/upasana0710",
       // },
+    // ],
+  },
+  {
+    id: 7,
+    title: "Code-zone",
+    date: "july 2024 - july 2024",
+    description:
+      "A Code-zone project is made for storing your important coding question you can categorised in easy, medium, hard problem and store it and also you you can store your important notes, video, audio, links, and others",
+    image:
+      "code-zone.png",
+    tags: ["typescript", "vs code", "react","Firebase", "Google Auth"],
+    category: "web app",
+    github: "https://github.com/Hritik1753",
+    webapp: "",
+
+    member: [
+      {
+        name: "Hritik Paswan",
+        img: "https://media.licdn.com/dms/image/D4D03AQEgjHH3TsvWhQ/profile-displayphoto-shrink_800_800/0/1699725247520?e=1723680000&v=beta&t=iesyd3qQIpX7Q_fbcEf5ZSo6V0ptssg_kXNXqznqhr0",
+        linkedin: "https://www.linkedin.com/in/hritik-paswan/",
+        github: "https://github.com/Hritik1753",
+      },
+           {
+        name: "Sejal Raj",
+        img: "https://media.licdn.com/dms/image/D4D03AQHQfSihc7IluA/profile-displayphoto-shrink_800_800/0/1670559259152?e=1724889600&v=beta&t=HfJzl4J0l0H1NV0mwmmZXOfUtqTEDIvbhq0xMpswaWQ",
+        linkedin: "https://www.linkedin.com/in/sejalraj2002/",
+        github: "https://github.com/raj-sejal",
+      },
+     
     ],
   },
-  // {
-  //   id: 7,
-  //   title: "Quiz App",
-  //   date: "Dec 2020 - Jan 2021",
-  //   description:
-  //     "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
-  //   image:
-  //     "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-  //   tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-  //   category: "android app",
-  //   github: "https://github.com/rishavchanda/Quiz-Earn",
-  //   webapp: "https://github.com/rishavchanda/Quiz-Earn",
-  // },
   // {
   //   id: 8,
   //   title: "Face Recognition",
