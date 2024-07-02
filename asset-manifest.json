@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hritik_portfolio/static/css/main.bf538fe7.css",
-    "main.js": "/hritik_portfolio/static/js/main.3de8fc8d.js",
+    "main.js": "/hritik_portfolio/static/js/main.31f0b372.js",
     "static/media/hritik_hero.jpg": "/hritik_portfolio/static/media/hritik_hero.8baf04394ffb77bec7fd.jpg",
     "index.html": "/hritik_portfolio/index.html",
     "main.bf538fe7.css.map": "/hritik_portfolio/static/css/main.bf538fe7.css.map",
-    "main.3de8fc8d.js.map": "/hritik_portfolio/static/js/main.3de8fc8d.js.map"
+    "main.31f0b372.js.map": "/hritik_portfolio/static/js/main.31f0b372.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.3de8fc8d.js"
+    "static/js/main.31f0b372.js"
   ]
 }
