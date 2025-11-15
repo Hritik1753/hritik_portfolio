@@ -184,10 +184,10 @@ export const skills = [
         {
       id: 1,
       img: "https://lh3.googleusercontent.com/p/AF1QipNsUObrLAdvkqXF24XcJTYtSqIsNyVR4MV-PlB_=s1360-w1360-h1020",
-      role: "Mobile App Developer on React js Framework at Bolesale Technologies Private Limited",
+      role: "Web App Developer on React js Framework at Bolesale Technologies Private Limited",
       company: "BOLESALE TECHNOLOGIES PVT LTD",
       date: "Aug 2023 - July 2023",
-      desc: "working on web applications using React js Framework Backend management, Firebase/Firestore integration, OTP login, and user registration.Focused on Cart functionality with AsyncStorage, product addition/deletion, and order creation. Implemented app’s authentication flow and ensured seamless user experience.",
+      desc: "working on web applications using React js and Spring boot Framework Backend management, Firebase/Firestore integration, OTP login, and user registration.Focused on Cart functionality with AsyncStorage, product addition/deletion, and order creation. Implemented app’s authentication flow and ensured seamless user experience.",
       skills: [
         "React js",
         "Firebase",
